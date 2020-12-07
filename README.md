@@ -3,9 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Akash, Learner Explorer 🚀</div>  
-  
-⚡ Fun fact: I play guitar and Flute.
+### <div align="center">I'm Akash 🚀</div>  
 
 <br/>  
 
