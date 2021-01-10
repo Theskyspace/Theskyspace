@@ -15,9 +15,15 @@
   
 
 - ❓ Ask me about anything related to Python and Web technologies. 
-  
+
 
 - ⚡ Fun fact: I have multi passion disorder.  
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src = 'https://img.shields.io/badge/-Python-orange'> <img src = 'https://img.shields.io/badge/-C++-white'> <img src = 'https://img.shields.io/badge/-Djano-green'>
+<img src = 'https://img.shields.io/badge/-Webtech-yellow'>
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
