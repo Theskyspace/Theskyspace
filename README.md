@@ -16,7 +16,7 @@
 
 - ❓ Ask me about anything related to Python and Web technologies. 
 
-- 💻 Currently on a quest to learn Competitive Programming.
+- 💻 Currently on a quest to learn Competitive Programming and Android Development.
 
 - ⚡ Fun fact: I have multi passion disorder. 
 
