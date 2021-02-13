@@ -16,8 +16,10 @@
 
 - ❓ Ask me about anything related to Python and Web technologies. 
 
+- 💻 Currently on a quest to learn Competitive Programming.
 
-- ⚡ Fun fact: I have multi passion disorder.  
+- ⚡ Fun fact: I have multi passion disorder. 
+
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
