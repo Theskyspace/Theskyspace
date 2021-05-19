@@ -11,12 +11,14 @@
 - 🔭 I’m currently working on Making up my Github presence.
   
 
+- 💻 Currently on a quest to learn Competitive Programming.
+
+
 - 🌱 I’m Open to Learning new Things. 
   
 
 - ❓ Ask me about anything related to Python and Web technologies. 
 
-- 💻 Currently on a quest to learn Competitive Programming and Android Development.
 
 - ⚡ Fun fact: I have multi passion disorder. 
 
@@ -38,6 +40,7 @@ If you ask me to get something done that's interesting to me even if I don't hav
 
 ### 📫 How to reach me?
 You can ping me on my [Twitter](https://twitter.com/theskyspace1).
+                      [Instagram](https://www.instagram.com/theskyspace)
 
 See you , Peace :v:
 
