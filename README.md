@@ -40,9 +40,9 @@ If you ask me to get something done that's interesting to me even if I don't hav
 
 ### 📫 How to reach me?
 You can ping me on my 
-[Twitter](https://twitter.com/theskyspace1)
-[Instagram](https://www.instagram.com/theskyspace)
-[Website]https://theskyspace.netlify.app/
+[Twitter](https://twitter.com/theskyspace1) 
+[Instagram](https://www.instagram.com/theskyspace) 
+[Website](https://theskyspace.netlify.app/)
 
 See you , Peace :v:
 
