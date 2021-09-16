@@ -44,7 +44,9 @@ You can ping me on my
 [Instagram](https://www.instagram.com/theskyspace) 
 [Website](https://theskyspace.netlify.app/)
 
+## 😂 sarcasm Alert 😂
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
 See you , Peace :v:
-
-
 
