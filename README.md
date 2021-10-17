@@ -6,8 +6,6 @@
 
 ### <div align="center">I'm Akash 🚀</div>  
 
-<img align='right' src='https://octodex.github.com/images/catstello.png' width='200"'>
-
 - 🔭 I’m currently working on Making up my Github presence.
   
 
