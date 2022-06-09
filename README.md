@@ -6,10 +6,8 @@
 
 ### <div align="center">I'm Akash 🚀</div>  
 
-- 🔭 I’m currently working on Making up my Github presence.
-  
 
-- 💻 Currently on a quest to learn Competitive Programming.
+- 💻 Currently on a quest to making a cool products.
 
 
 - 🌱 I’m Open to Learning new Things. 
